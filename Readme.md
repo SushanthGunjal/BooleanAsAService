@@ -12,6 +12,7 @@
     * Gorm as orm library
 * Docker
 
+Edit the .env file according to your requirements.
 
 ## Installation
 
